@@ -7036,16 +7036,15 @@
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
   },
   {
-    "fileName": "ota_t0x300a_m0x1209_v0x37041514.ota",
-    "fileVersion": 923014420,
-    "fileSize": 168518,
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Bosch/ota_t0x300a_m0x1209_v0x37041514.ota",
-    "imageType": 12298,
-    "manufacturerCode": 4617,
-    "sha512": "834531102c17686c831a3e0e0b78b402643a50c42264fa326fbe32213a0c104bc036befcdf51f330cbbf5c6c95d38a028365c3bbaf7feaa453e4d11792f79f36",
-    "otaHeaderString": "RBSH-TRV0-ZB-EU\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "modelId": "RBSH-TRV0-ZB-EU",
-    "releaseNotes": "1. Fix error E03, which can happen on some radiators after some time"
+      "modelId": "RBSH-TRV0-ZB-EU",
+      "fileVersion": 889787668,
+      "fileSize": 166554,
+      "manufacturerCode": 4617,
+      "imageType": 12298,
+      "sha512": "bd44eda56bd48503e922001b101522a7340d7e4b68528d3a3d1f6073492631f96e51178573fa2b00da601483b5c5c864b906f14408b0f28d008364c4b195bf52",
+      "url": "https://github.com/Koenkk/zigbee-OTA/blob/2de40930375dc509d02b113095ba7d6f7ff3eb5b/images/Bosch/0x1209_0x300a_0x35091514.ota",
+      "force": true,
+      "path": "images/Bosch/0x1209_0x300a_0x35091514.ota"
   },
   {
     "fileName": "zbminir2_v1.0.4.ota",
