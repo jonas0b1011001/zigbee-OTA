@@ -7045,7 +7045,6 @@
     "sha512": "bd44eda56bd48503e922001b101522a7340d7e4b68528d3a3d1f6073492631f96e51178573fa2b00da601483b5c5c864b906f14408b0f28d008364c4b195bf52",
     "url": "https://github.com/Koenkk/zigbee-OTA/raw/2de40930375dc509d02b113095ba7d6f7ff3eb5b/images/Bosch/0x1209_0x300a_0x35091514.ota",
     "otaHeaderString": "RBSH-TRV0-ZB-EU\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "force": true,
   },
   {
     "fileName": "zbminir2_v1.0.4.ota",
